@@ -1,0 +1,11 @@
+Meteor Seed
+================
+
+Meteor-Seed helps you scaffold a project quickly for the Meteor javascript framework.
+
+Project structure is:
+
++ __client__ contains files for the browser-side app.
++ __server__ is everything on the server.
++ __commons__ includes components shared by the client and the server. It is a good place to define your Mongo collections.
++ __packages__ (optional) holds additional plug-ins and Meteor-flavored plugins.
